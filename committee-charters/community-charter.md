@@ -13,9 +13,9 @@ The community committee exists to:
 
 ### Members
 
-- Chieri Wada 🧢
+- Nico Valencia 🧢
 - David McKelvey
-- Nico Valencia
+- Roy Rivera
 
 ### Responsibilities
 
